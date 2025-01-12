@@ -1,0 +1,18 @@
+baseURL = "http://localhost:1313/"
+defaultContentLanguage = "fr"
+title = "Gigaboulet - Les Flops Légendaires"
+theme = "Niello"
+
+[languages]
+  [languages.fr]
+    languageCode = "fr-fr"
+    LanguageName = "🇫🇷FR"
+    contentDir = "content"
+    weight = 1
+
+[params]
+  author = "Ton Nom"
+  description = "Découvrez les flops légendaires racontés avec humour."
+  enableBlog = true
+  enableSearch = true
+  enableSocialShare = true
