@@ -1,13 +1,31 @@
-baseURL = "https://www.example.com/"
-defaultContentLanguage = "en"
+baseURL = "http://localhost:1313/" # Remplacer par "https://gigaboulet.blog/" en production
+defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = true
 disqusShortname = "guangmean"   # Optional
+title = "Gigaboulet - Les Flops Légendaires"
 
 staticDir = ["static", "themes/Niello/static"]
 
 theme = "Niello"
 
 [languages]
+  [languages.fr]
+    languageCode = "fr-fr"
+    LanguageName = "🇫🇷 Français"
+    contentDir = "content/fr"
+    weight = 1
+	[[languages.en.menus.main]]
+		name = 'exampleHome'
+		pageRef = '/'
+		weight = 1
+	[[languages.en.menus.main]]
+		name = 'exampleCategories'
+		pageRef = '/categories'
+		weight = 2
+	[[languages.en.menus.main]]
+		name = 'exampleTags'
+		pageRef = '/tags'
+		weight = 3
 	[languages.en]
 		languageCode = "en-us"
 		LanguageName = "🇺🇸EN"
@@ -23,23 +41,6 @@ theme = "Niello"
 			weight = 2
 		[[languages.en.menus.main]]
 			name = 'exampleTags'
-			pageRef = '/tags'
-			weight = 3
-	[languages.zh]
-        languageCode = "zh-cn"
-        LanguageName = "🇨🇳CN"
-        contentDir = "content/zh"
-        weight = 2
-		[[languages.zh.menus.main]]
-			name = 'example首页'
-			pageRef = '/'
-			weight = 1
-		[[languages.zh.menus.main]]
-			name = 'example文章分类'
-			pageRef = '/categories'
-			weight = 2
-		[[languages.zh.menus.main]]
-			name = 'example标签'
 			pageRef = '/tags'
 			weight = 3
 
