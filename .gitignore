@@ -1,0 +1,32 @@
+# Hugo-specific .gitignore file
+
+# Generated files
+public/
+resources/
+
+# Hugo build cache
+tmp/
+
+# Configuration backup files
+*.bak
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.swp
+
+# Node.js dependencies (if applicable)
+node_modules/
+
+# IDE-specific files (optional, based on your tools)
+.vscode/
+.idea/
+
+# Git-specific files
+*.orig
+
+# Ignore generated Hugo files in multilingual setups
+content/*/_index.md

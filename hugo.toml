@@ -14,15 +14,15 @@ theme = "Niello"
     LanguageName = "🇫🇷 Français"
     contentDir = "content/fr"
     weight = 1
-	[[languages.en.menus.main]]
+	[[languages.fr.menus.main]]
 		name = 'exampleHome'
 		pageRef = '/'
 		weight = 1
-	[[languages.en.menus.main]]
+	[[languages.fr.menus.main]]
 		name = 'exampleCategories'
 		pageRef = '/categories'
 		weight = 2
-	[[languages.en.menus.main]]
+	[[languages.fr.menus.main]]
 		name = 'exampleTags'
 		pageRef = '/tags'
 		weight = 3
