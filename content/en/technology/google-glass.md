@@ -21,7 +21,7 @@ draft = false
    <li><a href="#what-if-google-tried-again-">What If Google Tried Again?</a></li>
 {{< /summary >}}
 
-In 2012, Google proudly introduced **Google Glass**, a pair of smart glasses that promised to revolutionize how we interact with technology. [A similar gamble was made with 3D TVs](../technology/3d-tv), but it too ended as a spectacular failure.
+In 2012, Google proudly introduced **Google Glass**, a pair of smart glasses that promised to revolutionize how we interact with technology. [A similar gamble was made with 3D TVs](../3d-tv), but it too ended as a spectacular failure.
 
 But why did this promised revolution fail? Was it an idea too ahead of its time or a poorly executed project? The failure of Google Glass remains one of the most significant technological flops of the past decade.
 

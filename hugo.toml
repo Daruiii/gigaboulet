@@ -57,7 +57,7 @@ weight = 1
 	google_ad_client = "******"
 	ga4 = "******"
 [params.bannershowcase]
-	categories = ["Technology", "Technologie"]
+	categories = ["Technology", "Technologie", "Fun"]
 	limit = 2
 [params.email]
 	contact = "contact@gigaboulet.com"
@@ -69,3 +69,4 @@ sharethis = "******"
 
 [outputs]
 home = ["HTML", "JSON"] # Optional - JSON just for search
+404 = ["HTML"] 

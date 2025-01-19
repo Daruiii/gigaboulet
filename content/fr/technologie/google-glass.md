@@ -23,7 +23,7 @@ draft = false
 {{< /summary >}}
 
 
-En 2012, Google présentait fièrement les **Google Glass**, des lunettes connectées qui promettaient de révolutionner la manière dont nous interagissons avec la technologie. [Un pari similaire avait été fait avec les TV 3D](../technologie/tv-3d), mais il s'est aussi soldé par un échec retentissant.
+En 2012, Google présentait fièrement les **Google Glass**, des lunettes connectées qui promettaient de révolutionner la manière dont nous interagissons avec la technologie. [Un pari similaire avait été fait avec les TV 3D](../3d-tv), mais il s'est aussi soldé par un échec retentissant.
 
 Mais pourquoi cette révolution annoncée a-t-elle échoué ? Était-ce une idée trop en avance sur son temps ou un projet mal conçu ? L’échec des Google Glass reste l’un des flops technologiques les plus marquants de la dernière décennie.
 
