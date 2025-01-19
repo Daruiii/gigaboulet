@@ -1,7 +1,7 @@
-baseURL = "http://localhost:1313/" # Remplacer par "https://gigaboulet.blog/" en production
+baseURL = "http://localhost:1313/"           # Remplacer par "https://gigaboulet.blog/" en production
 defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = true
-disqusShortname = "guangmean"   # Optional
+disqusShortname = "guangmean"                # Optional
 title = "Gigaboulet - Les Flops Légendaires"
 
 staticDir = ["static", "themes/Niello/static"]
@@ -9,55 +9,63 @@ staticDir = ["static", "themes/Niello/static"]
 theme = "Niello"
 
 [languages]
-  [languages.fr]
-    languageCode = "fr-fr"
-    LanguageName = "🇫🇷 Français"
-    contentDir = "content/fr"
-    weight = 1
+[languages.fr]
+languageCode = "fr-fr"
+LanguageName = "🇫🇷 Français"
+contentDir = "content/fr"
+weight = 1
 	[[languages.fr.menus.main]]
-		name = 'exampleHome'
+		name = 'Home'
 		pageRef = '/'
 		weight = 1
 	[[languages.fr.menus.main]]
-		name = 'exampleCategories'
+		name = 'Categories'
 		pageRef = '/categories'
 		weight = 2
 	[[languages.fr.menus.main]]
-		name = 'exampleTags'
+		name = 'Tags'
 		pageRef = '/tags'
 		weight = 3
+	[[languages.fr.menus.main]]
+        name = "À propos"
+        pageRef = "/about"
+        weight = 4
 	[languages.en]
 		languageCode = "en-us"
 		LanguageName = "🇺🇸EN"
 		contentDir = "content/en"
-		weight = 1
+		weight = 2
 		[[languages.en.menus.main]]
-			name = 'exampleHome'
+			name = 'Home'
 			pageRef = '/'
 			weight = 1
 		[[languages.en.menus.main]]
-			name = 'exampleCategories'
+			name = 'Categories'
 			pageRef = '/categories'
 			weight = 2
 		[[languages.en.menus.main]]
-			name = 'exampleTags'
+			name = 'Tags'
 			pageRef = '/tags'
 			weight = 3
+		[[languages.en.menus.main]]
+            name = "About"
+            pageRef = "/about"
+            weight = 4
 
 [params]
 [params.google]
 	google_ad_client = "******"
 	ga4 = "******"
 [params.bannershowcase]
-	categories = ["Example 1 - EN"]
+	categories = ["Technology", "Technologie"]
 	limit = 2
 [params.email]
-	contact = "example@gmail.com"
+	contact = "contact@gigaboulet.com"
 [params.ignore]
 	categories = ["privacy", "terms", "archives", "cookie"]
 
-copyright = "&#xA9; 2019 ~ 2024 by www.example.com All Rights Reserved."
+copyright = "&#xA9; 2025 by Gigaboulet"
 sharethis = "******"
 
 [outputs]
-  home = ["HTML", "JSON"]   # Optional - JSON just for search
+home = ["HTML", "JSON"] # Optional - JSON just for search

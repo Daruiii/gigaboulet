@@ -1,8 +1,8 @@
 +++
-title = 'Example1 Title - EN'
+title = 'Example1 Title - FR'
 date = 2024-12-11T09:34:12+08:00
-categories = ["Example 1 - EN"]
-tags = ["eg1 - en"]
+categories = ["Example 1 - FR"]
+tags = ["eg1 - fr"]
 keywords = ["SEO", "Keywords", "Here"]
 description = "SEO Description Here"
 draft = false
@@ -10,7 +10,7 @@ draft = false
 
 ## Example 1 Content - EN
 
-Content should be placed within the language directory, for example, English.
+Content should be placed within the language directory, for example, Français.
 
 ```shell
 |---content/en

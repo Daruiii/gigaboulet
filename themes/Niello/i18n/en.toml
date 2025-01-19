@@ -78,3 +78,6 @@ other = "Page link"
 
 [archivefmt]
 other = "Jan, 2006"
+
+[summary]
+other = "Summary"

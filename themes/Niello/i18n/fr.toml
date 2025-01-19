@@ -1,80 +1,83 @@
 [sitename]
-other = "Niello - Hugo Theme"
+other = "Gigaboulet - Les Flops Légendaires"
 
 [siteslogan]
-other = "Your site slogan."
+other = "Découvrez les échecs les plus marquants de la technologie et d'autres domaines."
 
 [siteseokeywords]
-other = "SEO keywords"
+other = "échecs technologiques, flops légendaires, Google Glass, TV 3D, humour"
 
 [siteseodescription]
-other = "SEO description"
+other = "Analysez les projets les plus ambitieux qui ont échoué et tirez des leçons pour l'avenir."
 
 [search]
-other = "Search"
+other = "Recherche"
 
 [searchplaceholder]
-other = "Input Keywords..."
+other = "Saisir des mots-clés..."
 
 [searching]
-other = "Searching..."
+other = "Recherche en cours..."
 
 [keywordmissing]
-other = "Please enter a word or phrase above to search."
+other = "Veuillez saisir un mot ou une phrase ci-dessus pour rechercher."
 
 [nomatch]
-other = "No matches found"
+other = "Aucun résultat trouvé"
 
 [home]
-other = "Home"
+other = "Accueil"
 
 [next]
-other = "Next >>"
+other = "Suivant >>"
 
 [previous]
-other = "<< Previous"
+other = "<< Précédent"
 
 [recommendpost]
-other = "Recommend Posts"
+other = "Articles recommandés"
 
 [intro]
-other = "About"
+other = "À propos"
 
 [topost]
-other = "Latest Post"
+other = "Derniers articles"
 
 [topcat]
-other = "Hot Categories"
+other = "Catégories populaires"
 
 [toptag]
-other = "Top Tags"
+other = "Tags populaires"
 
 [archive]
-other = "Archive Analytics"
+other = "Archives et Analyses"
 
 [contact]
 other = "Contact"
 
 [emptypost]
-other = "No Regular Posts"
+other = "Aucun article disponible"
 
 [emptycat]
-other = "No Categories"
+other = "Aucune catégorie disponible"
 
 [emptytag]
-other = "No Tags"
+other = "Aucun tag disponible"
 
 [emptyarchive]
-other = "No Archives"
+other = "Aucune archive disponible"
 
 [missing404title]
-other = "Page not found"
+other = "Page introuvable"
 
 [missing404body]
-other = "Sorry, we couldn’t find the page you’re looking for."
+other = "Désolé, nous n'avons pas pu trouver la page que vous recherchez."
 
 [articlelink]
-other = "Page link"
+other = "Lien de l'article"
 
 [archivefmt]
-other = "Jan, 2006"
+other = "Janv, 2006"
+
+[summary]
+other = "Sommaire"
