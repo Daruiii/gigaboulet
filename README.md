@@ -61,11 +61,11 @@ Voici une description des principaux fichiers et dossiers du projet :
 ---
 
 ## **Déploiement**
-- Une fois prêt, générez les fichiers pour le déploiement :
+- Une fois prêt, générez ou mettez à jour les fichiers pour le déploiement (oublie pas de changer le baseUrl dans `hugo.toml`) avant de les envoyer sur votre serveur :
   ```bash
-  docker run --rm -it -v $(pwd):/src klakegg/hugo:latest
+  docker run --rm -v $(pwd):/src klakegg/hugo:latest --cleanDestinationDir --buildDrafts --buildFuture
   ```
 - Les fichiers finaux seront dans le dossier `public/`.
-- Envoyez ces fichiers sur votre serveur OVH ou autre plateforme d'hébergement.
+- Envoyez ces fichiers sur votre serveur OVH via FileZilla (banger), un autre client FTP ou SSH (chiantos).
 
 ---
