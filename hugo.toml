@@ -1,0 +1,78 @@
+# baseURL = "http://localhost:1313/" 
+baseURL = "https://gigaboulet.blog/"
+defaultContentLanguage = "fr"
+defaultContentLanguageInSubdir = true
+disqusShortname = "guangmean"                # Optional
+title = "Gigaboulet - Les Flops Légendaires"
+
+staticDir = ["static", "themes/Niello/static"]
+
+theme = "Niello"
+
+[languages]
+[languages.fr]
+languageCode = "fr-fr"
+LanguageName = "🇫🇷 Français"
+contentDir = "content/fr"
+weight = 1
+	[[languages.fr.menus.main]]
+		name = 'Home'
+		pageRef = '/'
+		weight = 1
+	[[languages.fr.menus.main]]
+		name = 'Categories'
+		pageRef = '/categories'
+		weight = 2
+	[[languages.fr.menus.main]]
+		name = 'Tags'
+		pageRef = '/tags'
+		weight = 3
+	[[languages.fr.menus.main]]
+        name = "À propos"
+        pageRef = "/about"
+        weight = 4
+	[languages.en]
+		languageCode = "en-us"
+		LanguageName = "🇺🇸EN"
+		contentDir = "content/en"
+		weight = 2
+		[[languages.en.menus.main]]
+			name = 'Home'
+			pageRef = '/'
+			weight = 1
+		[[languages.en.menus.main]]
+			name = 'Categories'
+			pageRef = '/categories'
+			weight = 2
+		[[languages.en.menus.main]]
+			name = 'Tags'
+			pageRef = '/tags'
+			weight = 3
+		[[languages.en.menus.main]]
+            name = "About"
+            pageRef = "/about"
+            weight = 4
+
+[params]
+[params.google]
+	google_ad_client = "******"
+	ga4 = "******"
+[params.bannershowcase]
+	categories = ["Technology", "Technologie", "Fun"]
+	limit = 5
+[params.email]
+	contact = "contact@gigaboulet.com"
+[params.ignore]
+	categories = ["privacy", "terms", "archives", "cookie"]
+
+copyright = "&#xA9; 2025 by Gigaboulet"
+sharethis = "******"
+
+[outputs]
+home = ["HTML", "JSON"] # Optional - JSON just for search
+404 = ["HTML"] 
+
+[sitemap]
+changefreq = "monthly"
+priority = 0.5
+filename = "sitemap.xml"

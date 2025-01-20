@@ -1,0 +1,34 @@
+.summary {
+  border-left: 4px solid #df7e00; /* Bordure gauche fine pour démarquer */
+  padding: 10px 15px; /* Espacement modéré */
+  margin-bottom: 20px; /* Espacement sous le sommaire */
+  font-size: 1rem; /* Taille légèrement réduite */
+  color: #cccccc; /* Couleur de texte douce */
+}
+
+.summary h2 {
+  font-size: 1.1rem; /* Taille légèrement plus grande */
+  margin-bottom: 8px; /* Réduction de l'espacement sous le titre */
+  color: #ffffff; /* Couleur distincte pour le titre */
+  font-weight: bold; /* Mise en évidence */
+  text-transform: none; /* Pas de majuscules */
+}
+
+.summary ul {
+  list-style-type: disc; /* Puces standard discrètes */
+  padding-left: 20px; /* Espacement des puces */
+  margin: 0;
+}
+
+.summary li {
+  margin-bottom: 6px; /* Réduction de l'espacement entre les lignes */
+}
+
+.summary a {
+  text-decoration: none; /* Pas de soulignement */
+}
+
+.summary a:hover {
+  text-decoration: underline; /* Soulignement au survol */
+  color: #003f73; /* Couleur plus foncée au survol */
+}

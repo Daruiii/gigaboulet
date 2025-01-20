@@ -1,0 +1,83 @@
+[sitename]
+other = "Gigaboulet - Les Flops Légendaires"
+
+[siteslogan]
+other = "Découvrez les échecs les plus marquants de la technologie et d'autres domaines."
+
+[siteseokeywords]
+other = "échecs technologiques, flops légendaires, Google Glass, TV 3D, humour"
+
+[siteseodescription]
+other = "Analysez les projets les plus ambitieux qui ont échoué et tirez des leçons pour l'avenir."
+
+[search]
+other = "Recherche"
+
+[searchplaceholder]
+other = "Saisir des mots-clés..."
+
+[searching]
+other = "Recherche en cours..."
+
+[keywordmissing]
+other = "Veuillez saisir un mot ou une phrase ci-dessus pour rechercher."
+
+[nomatch]
+other = "Aucun résultat trouvé"
+
+[home]
+other = "Accueil"
+
+[next]
+other = "Suivant >>"
+
+[previous]
+other = "<< Précédent"
+
+[recommendpost]
+other = "Articles recommandés"
+
+[intro]
+other = "À propos"
+
+[topost]
+other = "Derniers articles"
+
+[topcat]
+other = "Catégories populaires"
+
+[toptag]
+other = "Tags populaires"
+
+[archive]
+other = "Archives et Analyses"
+
+[contact]
+other = "Contact"
+
+[emptypost]
+other = "Aucun article disponible"
+
+[emptycat]
+other = "Aucune catégorie disponible"
+
+[emptytag]
+other = "Aucun tag disponible"
+
+[emptyarchive]
+other = "Aucune archive disponible"
+
+[missing404title]
+other = "Page introuvable"
+
+[missing404body]
+other = "Désolé, nous n'avons pas pu trouver la page que vous recherchez."
+
+[articlelink]
+other = "Lien de l'article"
+
+[archivefmt]
+other = "Janv, 2006"
+
+[summary]
+other = "Sommaire"
