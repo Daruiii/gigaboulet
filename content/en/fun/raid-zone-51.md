@@ -10,7 +10,7 @@ draft = false
 
 ## Area 51 Raid: When the Internet Takes on Aliens
 
-![Area 51](/images/zone-51.jpg)
+![Area 51](/images/zone-51.webp)
 
 {{< summary >}}
    <h2>Explore the key points:</h2>

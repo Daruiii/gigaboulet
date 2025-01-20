@@ -12,7 +12,7 @@ Welcome to **Gigaboulet**. We use cookies to enhance your browsing experience an
 
 ### What are cookies?
 
-![Cookies](/images/cookie.jpeg)
+![Cookies](/images/cookie.webp)
 
 Cookies are small files stored on your device when you visit a website. They are used to:
 - Save your user preferences.

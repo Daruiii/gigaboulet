@@ -10,7 +10,7 @@ draft = false
 
 ## 3D TVs: A Revolution That Failed in Our Living Rooms
 
-![3D TV](/images/tv-3d.jpg)
+![3D TV](/images/tv-3d.webp)
 
 {{< summary >}}
    <h2>Explore the key points:</h2>

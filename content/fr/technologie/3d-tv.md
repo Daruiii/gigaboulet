@@ -10,7 +10,7 @@ draft = false
 
 ## Les TV 3D : Une révolution avortée dans nos salons
 
-![TV 3D](/images/tv-3d.jpg)
+![TV 3D](/images/tv-3d.webp)
 
 {{< summary >}}
    <h2>Découvrez les points clés :</h2>

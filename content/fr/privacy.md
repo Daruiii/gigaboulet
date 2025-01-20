@@ -6,7 +6,7 @@ categories = ["privacy"]
 sitemap_exclude = true
 +++
 
-![Politique de confidentialité](/images/privacy.jpeg)
+![Politique de confidentialité](/images/privacy.webp)
 ## Politique de confidentialité
 
 Chez **Gigaboulet**, nous accordons une grande importance à la confidentialité de vos données. Cette politique explique comment nous collectons, utilisons et protégeons vos informations personnelles.

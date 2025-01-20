@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
       img.setAttribute('loading', 'lazy');
   
       // Ajouter un placeholder pour les images
-      const placeholder = '/images/placeholder.jpg'; // Remplacez par le chemin de votre image placeholder
+      const placeholder = '/images/placeholder.wepb'; // Remplacez par le chemin de votre image placeholder
       if (!img.classList.contains('lazy-loaded')) {
         const originalSrc = img.src;
         img.src = placeholder; // Placeholder initial

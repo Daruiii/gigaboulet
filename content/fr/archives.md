@@ -6,4 +6,4 @@ categories = ["archives"]
 layout = "archives"
 +++
 
-![Archives](/images/archives.jpeg)
+![Archives](/images/archives.webp)

@@ -10,7 +10,7 @@ draft = false
 
 ## Raid de la Zone 51 : Quand Internet s'attaque aux extraterrestres
 
-![Zone 51](/images/zone-51.jpg)
+![Zone 51](/images/zone-51.webp)
 
 {{< summary >}}
    <h2>Découvrez les points clés :</h2>

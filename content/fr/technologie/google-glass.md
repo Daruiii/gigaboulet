@@ -11,7 +11,7 @@ draft = false
 
 ## Les Google Glass : Une révolution annoncée, mais ratée
 
-![Google Glass](/images/google-glass.jpg)
+![Google Glass](/images/google-glass.webp)
 
 {{< summary >}}
    <h2>Découvrez les points clés :</h2>

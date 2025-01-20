@@ -12,7 +12,7 @@ Bienvenue sur **Gigaboulet**. Nous utilisons des cookies pour améliorer votre e
 
 ### Que sont les cookies ?
 
-![Cookies](/images/cookie.jpeg)
+![Cookies](/images/cookie.webp)
 
 Les cookies sont de petits fichiers stockés sur votre appareil lorsque vous visitez un site web. Ils servent à :
 - Enregistrer vos préférences utilisateur.

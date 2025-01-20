@@ -1,4 +1,5 @@
-baseURL = "http://localhost:1313/"           # Remplacer par "https://gigaboulet.blog/" en production
+# baseURL = "http://localhost:1313/" 
+baseURL = "https://gigaboulet.blog/"
 defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = true
 disqusShortname = "guangmean"                # Optional

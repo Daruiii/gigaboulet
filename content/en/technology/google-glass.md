@@ -10,7 +10,7 @@ draft = false
 
 ## Google Glass: The Failure of a Promised Revolution
 
-![Google Glass](/images/google-glass.jpg)
+![Google Glass](/images/google-glass.webp)
 
 {{< summary >}}
    <h2>Explore Key Points:</h2>

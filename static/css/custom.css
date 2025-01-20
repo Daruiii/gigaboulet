@@ -2,8 +2,8 @@
   border-left: 4px solid #df7e00; /* Bordure gauche fine pour démarquer */
   padding: 10px 15px; /* Espacement modéré */
   margin-bottom: 20px; /* Espacement sous le sommaire */
-  font-size: 0.95rem; /* Taille légèrement réduite */
-  color: #444; /* Couleur de texte douce */
+  font-size: 1rem; /* Taille légèrement réduite */
+  color: #cccccc; /* Couleur de texte douce */
 }
 
 .summary h2 {

@@ -5,7 +5,7 @@ draft = false
 categories = ["terms"]
 sitemap_exclude = true
 +++
-![Terms and Conditions](/images/terms.jpeg)
+![Terms and Conditions](/images/terms.webp)
 ## Terms and Conditions
 
 Welcome to **Gigaboulet**. By using this website, you agree to the following terms and conditions.

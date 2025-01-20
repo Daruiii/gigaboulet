@@ -5,7 +5,7 @@ draft = false
 categories = ["privacy"]
 sitemap_exclude = true
 +++
-![Privacy Policy](/images/privacy.jpeg)
+![Privacy Policy](/images/privacy.webp)
 ## Privacy Policy
 
 At **Gigaboulet**, we take your privacy seriously. This policy explains how we collect, use, and protect your personal information.

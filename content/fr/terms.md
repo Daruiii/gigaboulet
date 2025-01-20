@@ -5,7 +5,7 @@ draft = false
 categories = ["terms"]
 sitemap_exclude = true
 +++
-![Conditions générales](/images/terms.jpeg)
+![Conditions générales](/images/terms.webp)
 
 ## Conditions générales
 Bienvenue sur **Gigaboulet**. En utilisant ce site, vous acceptez les conditions générales suivantes.
