@@ -3,6 +3,7 @@ title = "Terms and Conditions"
 date = 2025-01-15T09:16:03+08:00
 draft = false
 categories = ["terms"]
+sitemap_exclude = true
 +++
 ![Terms and Conditions](/images/terms.jpeg)
 ## Terms and Conditions

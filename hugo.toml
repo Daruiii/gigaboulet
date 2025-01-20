@@ -70,3 +70,8 @@ sharethis = "******"
 [outputs]
 home = ["HTML", "JSON"] # Optional - JSON just for search
 404 = ["HTML"] 
+
+[sitemap]
+changefreq = "monthly"
+priority = 0.5
+filename = "sitemap.xml"

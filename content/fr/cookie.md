@@ -3,6 +3,7 @@ title = "Politique des cookies"
 date = 2024-10-25T09:16:03+08:00
 draft = false
 categories = ["cookie"]
+sitemap_exclude = true
 +++
 
 ## Politique des cookies
