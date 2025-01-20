@@ -3,7 +3,7 @@ title = "3D TVs: A Revolution That Failed in Our Living Rooms"
 date = 2025-01-20T10:00:00+01:00
 categories = ["Technology"]
 tags = ["3D TV", "Technological Failure", "Innovation", "Cinema"]
-keywords = ["3D TV", "technological failure", "3D televisions", "cinema", "Avatar"]
+keywords = ["3D TV", "technological failure", "3D televisions", "cinema", "Avatar", "Gigaboulet"]
 description = "Discover why 3D TVs, once announced as a revolution in our living rooms, disappeared within a few years. An analysis of the reasons for this failure."
 draft = false
 +++
@@ -84,3 +84,5 @@ With the evolution of technologies such as virtual and augmented reality, could 
 ### Engage With Us!
 
 What do you think? Could 3D TVs have succeeded if they had been better designed? [Find out why Google Glass also failed](../google-glass), another example of ambitious innovation poorly received.
+
+{{< about >}}

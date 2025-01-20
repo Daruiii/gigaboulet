@@ -3,8 +3,8 @@ title = "Les Google Glass : L'échec d'une révolution annoncée"
 date = 2025-01-13T10:00:00+01:00
 categories = ["Technologie"]
 tags = ["Google", "Lunettes connectées", "Réalité augmentée", "Échec technologique"]
-keywords = ["google glass", "lunettes connectées", "échec technologique", "analyse des échecs", "réalité augmentée"]
-description = "Découvrez pourquoi les Google Glass, présentées comme une innovation majeure, ont été un échec technologique malgré leur promesse de révolution. Une analyse approfondie de leurs forces et faiblesses."
+keywords = ["google glass", "lunettes connectées", "échec technologique", "analyse des échecs", "réalité augmentée", "gigaboulet", "Gigaboulet"]
+description = "Découvrez avec Gigaboulet pourquoi les Google Glass, présentées comme une innovation majeure, ont été un échec technologique malgré leur promesse de révolution. Une analyse approfondie de leurs forces et faiblesses."
 draft = false
 +++
 
@@ -91,3 +91,5 @@ Les Google Glass sont un exemple parfait d’une technologie en avance sur son t
 ### Et si Google tentait à nouveau ?
 
 L’idée des Google Glass n’est pas morte. Avec l’évolution des technologies et une meilleure acceptation sociale, un retour des lunettes connectées pourrait-il réussir ? Ce serait peut-être le pari de Google pour les années à venir.
+
+{{< about >}}

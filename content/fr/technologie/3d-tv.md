@@ -3,8 +3,8 @@ title = "Les TV 3D : Une révolution avortée dans nos salons"
 date = 2025-01-20T10:00:00+01:00
 categories = ["Technologie"]
 tags = ["TV 3D", "Échec technologique", "Innovation", "Cinéma"]
-keywords = ["TV 3D", "échec technologique", "téléviseurs 3D", "cinéma", "Avatar"]
-description = "Découvrez pourquoi les TV 3D, annoncées comme une révolution dans nos salons, ont finalement disparu en quelques années. Une analyse des raisons de cet échec."
+keywords = ["TV 3D", "échec technologique", "téléviseurs 3D", "cinéma", "Avatar", "gigaboulet", "Gigaboulet"]
+description = "Découvrez avec Gigaboulet pourquoi les TV 3D, annoncées comme une révolution dans nos salons, ont finalement disparu en quelques années. Une analyse des raisons de cet échec."
 draft = false
 +++
 
@@ -84,3 +84,5 @@ Avec l’évolution des technologies, comme la réalité virtuelle et augmentée
 ### Engagez-vous !
 
 Qu’en pensez-vous ? Les TV 3D auraient-elles pu réussir si elles avaient été mieux pensées ? [Découvrez également pourquoi les Google Glass ont échoué](../google-glass), un autre exemple d’innovation ambitieuse mais mal reçue.
+
+{{< about >}}

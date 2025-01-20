@@ -3,7 +3,7 @@ title = "About Gigaboulet"
 date = 2025-01-20T12:00:00+01:00
 categories = ["About"]
 tags = ["Introduction", "Gigaboulet", "Legendary Flops"]
-keywords = ["about", "gigaboulet", "flops", "technology", "legendary failures"]
+keywords = ["about", "gigaboulet", "flops", "technology", "legendary failures", "Gigaboulet"]
 description = "Learn about Gigaboulet's mission: analyzing the greatest technological failures to extract valuable lessons."
 draft = false
 +++
@@ -16,7 +16,7 @@ Welcome to **Gigaboulet**, the website dedicated to showcasing the **most legend
 
 ### Our Mission
 
-Our goal is simple: to analyze failures and learn from them. Whether it’s tech products like [Google Glass](../technology/google-glass) or promising concepts like [3D TVs](../technology/tv-3d), we explore the mistakes to better understand what could have been done differently.
+**Gigaboulet** goal is simple: to analyze failures and learn from them. Whether it’s tech products like [Google Glass](../technology/google-glass) or promising concepts like [3D TVs](../technology/tv-3d), we explore the mistakes to better understand what could have been done differently.
 
 We believe every failure tells a valuable story for innovators, entrepreneurs, and anyone aiming to avoid similar pitfalls.
 

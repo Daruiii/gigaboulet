@@ -5,3 +5,5 @@ draft = false
 categories = ["archives"]
 layout = "archives"
 +++
+
+![Archives](/images/archives.jpeg)

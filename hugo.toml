@@ -58,7 +58,7 @@ weight = 1
 	ga4 = "******"
 [params.bannershowcase]
 	categories = ["Technology", "Technologie", "Fun"]
-	limit = 2
+	limit = 5
 [params.email]
 	contact = "contact@gigaboulet.com"
 [params.ignore]
